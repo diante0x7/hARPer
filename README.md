@@ -1,2 +1,2 @@
 # hARPer
-Auxillary tool for throttling connections using python-scapy and ARP.
+***HARPER*** is an auxillary tool for throttling LAN connections using python-scapy and ARP.
